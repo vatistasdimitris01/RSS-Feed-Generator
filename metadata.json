@@ -1,0 +1,5 @@
+{
+  "name": "RSS Feed Generator",
+  "description": "An application to create and host RSS feeds by scraping website content using AI.",
+  "requestFramePermissions": []
+}
